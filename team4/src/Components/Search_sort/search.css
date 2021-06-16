@@ -1,0 +1,15 @@
+.Main{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(236, 236, 175);
+}
+
+.search-option-catagory{
+    /* width: 30%; */
+    background-color: antiquewhite;
+}
+
+.search-sidecontent{
+    /* width: 70%; */
+    background-color: bisque;
+}
